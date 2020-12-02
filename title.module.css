@@ -1,0 +1,27 @@
+.header {
+  font-family: sunberryregular, Arial;
+  color: white;
+  font-size: 7.5em;
+  opacity: 0.85;
+  word-spacing: 0.05em;
+  white-space: nowrap;
+  position: relative;
+  top: 1050px;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
+
+.subheading {
+  font-family: century_gothicregular, Arial;
+  color: white;
+  font-size: 1.5em;
+  word-spacing: 0.3em;
+  letter-spacing: 0.1em;
+  white-space: nowrap;
+  position: relative;
+  top: 80%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  z-index: 8;
+}

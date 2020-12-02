@@ -1,0 +1,10 @@
+.logo {
+  position: absolute;
+  margin: -10%;
+}
+
+.banner img {
+  max-width: 100%;
+  object-fit: scale-down;
+  z-index: -2;
+}
